@@ -1,0 +1,48 @@
+body {
+    direction: rtl;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 0;
+    font-size: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.credits {
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+h1 , .credits {
+    background-color: black;
+    color: #fff
+}
+
+.article {
+    margin-top: 15px;
+    margin-bottom: 100px;
+}
+.article img {
+    width: 300px;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+article {
+    text-align: justify;
+    padding: 20px 7%;
+    font-size: 20px;
+}
+
+article img {
+    display: block;
+    margin-bottom: 70px;
+    width: 90%;
+    max-width: 500px;
+}
